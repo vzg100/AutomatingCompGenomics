@@ -8,23 +8,21 @@ This portion is based on the idea of finding what genomes have a gene and what t
 
 - [ ] Precollect & Curate Reference Genomes (genbank)
 
-- [ ] genbank -> fasta (nucleic acids) function
+- [x] genbank -> fasta (nucleic acids) function
 
-- [ ] genbank -> fasta (amino acids) function
+- [x] genbank -> fasta (amino acids) function
 
-- [ ] Convert fasta to BLAST DB function
+- [x] Convert fasta to BLAST DB function
 
-- [ ] Create local rps BLAST DB  function
+- [x] Create local rps BLAST DB  function
 
-- [ ] Create new BLAST DB function (protien and nucleic acids)
+- [x] Create new BLAST DB function (protien and nucleic acids)
 
-- [ ] Create new rps BLAST DB function 
+- [x] Create new rps BLAST DB function 
 
-- [ ] Create new psi BLAST DB function
+- [x] Create new psi BLAST DB function
 
-- [ ] Create aligning function which extracts 
-
-## Report Class
+- [ ] ## Report Class
 
 - [ ] Input seqs, if more than one input align to determine cutoffs identity and coverage cutoffs otherwise have user define
 
@@ -36,8 +34,8 @@ This portion is based on the idea of finding what genomes have a gene and what t
 
 - [ ] create curated list of genomes with meta info 
 
-
-
 ## Meta Report Class
 
 - [ ] Well worry about it later
+
+
